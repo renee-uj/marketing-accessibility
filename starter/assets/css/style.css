@@ -36,9 +36,16 @@ body {
     list-style-type: none;
 }
 
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+#list-1 {
+    display: inline;
+}
+
+#list-2 {
+    display: inline;
+}
+
+#list-3 {
+    display: inline;
 }
 
 a {
